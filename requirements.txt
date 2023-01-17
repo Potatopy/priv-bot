@@ -1,4 +1,9 @@
 nextcord
 datetime
+traceback
+sqlite3
+validators
+asyncio
+aiosqlite
 git+https://github.com/Potatopy/Discord-iOS.git
 git+https://github.com/Potatopy/wavelink-nextcord.git
